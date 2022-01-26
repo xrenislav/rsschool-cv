@@ -13,6 +13,6 @@
 ## About me
 
 I was born in 1987, and living up to thirty-three years 
-decided to change my life. Therefore, I moved to Saint Petersburg and made a decision to learn a new profession.
+decided to change my life. Therefore, I moved to Saint Petersburg with my family and made a decision to learn a new profession.
 
 And now I am learning Front-End Development in RSSchool.
