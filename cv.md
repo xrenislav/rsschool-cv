@@ -2,10 +2,17 @@
 
 ***
 
-## Contacts:
+## Contacts
 
 * **Location:** Saint-Petersburg, Russia
 
 * **Phone:** +7-904-519-21-57
 
 * **E-mail:** prutsakovyaroslav@yandex.ru
+
+## About me
+
+I was born in 1987, and living up to thirty-three years 
+decided to change my life. Therefore, I moved to Saint Petersburg and made a decision to learn a new profession.
+
+And now I am learning Front-End Development in RSSchool.
