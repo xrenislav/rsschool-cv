@@ -28,3 +28,13 @@ And now I am learning Front-End Development in RSSchool.
 * Git
 
 * Windows OS
+
+## Work experience
+
+No experience in this area yet.
+
+## languages
+
+* Russian
+
+* English (A2-B1)
