@@ -10,7 +10,7 @@
 
 * **E-mail:** prutsakovyaroslav@yandex.ru
 
-* **GitHub:** xrenislav
+* **GitHub:** [xrenislav](https://github.com/xrenislav)
 
 
 ## About me
